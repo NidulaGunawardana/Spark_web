@@ -83,7 +83,7 @@
 
 
                 </div>
-                
+
 
 
         </header>
@@ -107,7 +107,9 @@
                                             Tesseract
                                         </h5>
                                         <p class="product-p">Medical Waste Segregation Using AI</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
+
                                 </div>
                             </a>
                         </div>
@@ -123,6 +125,7 @@
                                         </h5>
 
                                         <p class="product-p">Innovating Agriculture for Sustainability</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
                             </a>
@@ -140,6 +143,7 @@
                                         </h5>
 
                                         <p class="product-p">A Sustainable Solution for Insect Management</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
                             </a>
@@ -158,6 +162,7 @@
                                         </h5>
 
                                         <p class="product-p">Environmental Conservation Through NBOT</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
                             </a>
@@ -176,6 +181,7 @@
                                         </h5>
 
                                         <p class="product-p">Revolutionizing Hydrogen Production for a Sustainable Future</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
                             </a>
@@ -194,6 +200,7 @@
                                         </h5>
 
                                         <p class="product-p">A 5G Powered virtual cycling platform</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
                             </a>
