@@ -215,7 +215,7 @@
                 </div>
             </div>
         </section>
-        <section class="featured-product section-padding pt-0">
+        <section class="featured-product section-padding pt-0 pb-3">
             <div class="container-fluid team rounded-3">
                 <div class="row ">
 
@@ -234,7 +234,7 @@
                                     <div class="product-info d-flex">
                                         <div>
 
-                                            <p class="text-justify">Pi-Mora 1.3 (3/3) Participants joined the third
+                                            <p class="lead text-justify">Pi-Mora 1.3 (3/3) Participants joined the third
                                                 session to get some invaluable experience about the applications of
                                                 Raspberry Pi in Robotics. This was lead by the very experienced Achala
                                                 Athukorala who inspired over 100 participants who attended these sessions.</p>
@@ -252,7 +252,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="text-justify">Pi-Mora 1.3 (3/2) Participants joined the second session hands-on to
+                                            <p class="lead text-justify">Pi-Mora 1.3 (3/2) Participants joined the second session hands-on to
                                                 gain experience about the applications of Raspberry Pi in Computer Vision. The workshops
                                                 were lead by the very experienced undergraduates Avishka Perera and Yasiru Karunanayake. </p>
                                         </div>
@@ -268,7 +268,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="text-justify">Janitha Gunarathna was the guest speaker for Pi-Mora 1.3 (1/3).
+                                            <p class="lead text-justify">Janitha Gunarathna was the guest speaker for Pi-Mora 1.3 (1/3).
                                                 The day’s session was conducted by a pioneering personality and entrepreneur in
                                                 the field of UAV Technology. He will demonstrate his projects and share skills
                                                 and knowledge with the participants. </p>
@@ -282,7 +282,7 @@
 
                     <div class="col-12 col-lg-6 offset-lg-3 text-center">
                         <!-- <a href="products.html" class="view-all">View All Products</a> -->
-                        <p class="text-center text-secondary">
+                        <p class="lead text-center text-secondary">
                             Two further Pi-Mora’s were undertaken by the student community in 2022 with a fantastic reception for
                             this innovation of this facility at ENTC. All participants had access to these workshops and seminars
                             either through a Facebook live stream or Zoom. All resource material and replays are available on the internal ENTC servers.
@@ -307,7 +307,7 @@
                                     <div class="product-info d-flex">
                                         <div>
 
-                                            <p class="text-justify">Pi-Mora 2.2 took place in December 2022; With the
+                                            <p class="lead text-justify">Pi-Mora 2.2 took place in December 2022; With the
                                                 intention to Explore Computer Vision with experienced Mr. Bimalka Plyaruwan,
                                                 Undergraduate at Electronics and Telecommunication Engineering, University
                                                 of Moratuwa. Over 100 participants took part either physically or over zoom
@@ -326,7 +326,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="text-justify">Pi-Mora 2.1 took place in September 2022 over
+                                            <p class="lead text-justify">Pi-Mora 2.1 took place in September 2022 over
                                                 a two day period with speaker Yasiru Senarath , undergraduate of ENTC
                                                 leading the partici-pants on the numerous issues related “Ethical Hacking”
                                                 on day one; with a full practical workshops on day 2</p>
@@ -342,7 +342,7 @@
                         <!-- <a href="products.html" class="view-all">View All Products</a> -->
                         <p class="text-center text-secondary">
                             Both these sessions are now available Youtube! <br />
-                            Day 1: <a href="https://bit.ly/3rJTDo1" target="_blank" class="link-underline" > https://bit.ly/3rJTDo1</a><br />
+                            Day 1: <a href="https://bit.ly/3rJTDo1" target="_blank" class="link-underline"> https://bit.ly/3rJTDo1</a><br />
                             Day 2 :<a href="https://bit.ly/3SzRSWb" target="_blank" class="link-underline"> https://bit.ly/3SzRSWb</a>
 
                         </p>
@@ -351,6 +351,64 @@
                 </div>
             </div>
         </section>
+        <section class="team rounded-3  mb-5">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-10 offset-1">
+                        <div class="text-justify ">
+                            <h2 class="mb-2 mt-5 text-center">Teacher Training Programme</h2>
+                            <p class="lead mb-3 text-secondary">A major project aimed at providing
+                                significant assistance to Sri Lanka was initiated by the Spark branch.
+                                The Spark branch collaborated with the Sri Lankan Ministry of Education
+                                to conduct a "Teacher Training" programme that aimed to equip advanced-level
+                                IT teachers with Machine Learning knowledge, which will be highly beneficial
+                                for good teaching practices. Teachers had the opportunity to learn about the
+                                basic principles of machine learning throughout the project, which will help
+                                them to have a solid foundation in this field and expand that knowledge after the project is completed.
+                                The course was broken up into six three-day sessions. Of those six sessions,
+                                three were devoted to imparting theoretical knowledge, and the remaining three
+                                to assisting the teachers in gaining practical experience with the scope.
+                                The department's instructors led the theoretical discussions. The undergraduates
+                                in their final year led the practical sessions. After completion of the three-day
+                                course, teachers were awarded with certificates as a token of appreciation.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mb-2 mb-lg-3">
+                  
+
+                    <div class="col-lg-4 col-12 text-justify">
+                        <div class="row h-100">
+                            <div class="col-12 my-auto">
+                                <img src="images/teacher_training.jpg" alt="coral pic" class="img-fluid w-100 ">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12 text-justify">
+                        <div class="row h-100">
+                            <div class="col-12 my-auto">
+                                <img src="images/teacher_training_2.jpg" alt="coral pic" class="img-fluid w-100">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-12 text-justify">
+                        <div class="row h-100">
+                            <div class="col-12 my-auto">
+                                <img src="images/teacher_training_3.jpg" alt="coral pic" class="img-fluid w-100">
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+
+            
+            </div>
+
+        </section>
+
     </main>
 
     <footer class="site-footer">
