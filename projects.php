@@ -90,13 +90,11 @@
 
 
 
-        <section class="testimonial section-padding pt-0">
+        <section class="testimonial section-padding pt-5">
             <div class="container">
                 <div class="row">
 
-                    <div class="col-12 text-center">
-                        <h2 class="mb-5">Featured Products</h2>
-                    </div>
+           
 
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
                         <div class="product-thumb h-100">

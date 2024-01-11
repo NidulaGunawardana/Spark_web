@@ -951,7 +951,7 @@ button:focus:not(:focus-visible) {
 }
 
 .product-thumb:hover {
-    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+    box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.54);
     cursor: pointer;
 }
 

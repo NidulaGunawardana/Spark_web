@@ -115,7 +115,7 @@
                                     <div class="accordion-item">
                                         <h2 class="accordion-header" id="headingOne">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionGeneralOne" aria-expanded="true" aria-controls="accordionGeneralOne">
-                                                SPARK Technology Demonstrators
+                                                SPARK Technology Demonstrations
                                             </button>
                                         </h2>
 
@@ -211,6 +211,52 @@
                             </ul>
                         </div>
                     </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="team rounded-3  mb-3">
+            <div class="container-fluid">
+                <div class="row">
+                    <h2 class=" my-5 text-center">Technology Demonstrations</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-12 mb-3">
+                        <div class="shadow-sm product-thumb h-100">
+                            <a href="Projects/phoenix.php" class="product-title-link">
+                                <div class="product-info d-flex text-center">
+                                    <div class="w-100">
+                                        <h5 class="product-title mb-0">
+                                            The Phoenix Cubesatallite project
+                                        </h5>
+                                        <p class="product-p">weather balloon mission and the development of a Cube Satellite</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-12 mb-3">
+                        <div class="product-thumb h-100 shadow-sm">
+                            <a href="Projects/techstatic.php" class="product-title-link">
+                                <div class="product-info d-flex text-center">
+                                    <div class="w-100">
+                                        <h5 class="product-title mb-0">
+                                            Techstatic
+                                        </h5>
+
+                                        <p class="product-p">Innovating Agriculture for Sustainability</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
 
                 </div>
             </div>
@@ -377,7 +423,7 @@
                 </div>
 
                 <div class="row mb-2 mb-lg-3">
-                  
+
 
                     <div class="col-lg-4 col-12 text-justify">
                         <div class="row h-100">
@@ -401,10 +447,10 @@
                             </div>
                         </div>
                     </div>
-                   
+
                 </div>
 
-            
+
             </div>
 
         </section>
