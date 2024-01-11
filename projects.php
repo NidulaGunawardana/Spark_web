@@ -69,7 +69,7 @@
             </div>
         </nav>
 
-        <header class="site-header section-padding-img site-header-image mt-0 tile-color">
+        <header class="site-header section-padding-img site-header-image mt-0 tile-color pb-3">
             <div class="container">
                 <div class="row">
 
