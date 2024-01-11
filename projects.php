@@ -8,7 +8,7 @@
     <meta name="description" content>
     <meta name="author" content>
 
-    <title>SPARK Soft Skills</title>
+    <title>Projects</title>
     <link rel="icon" href="images/tit.png" />
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -83,24 +83,7 @@
 
 
                 </div>
-                <!-- <div class="row">
-                    <div class="col-12 h-100">
-                        <div class="px-5 py-5 py-lg-3 text-center my-auto">
-                            <p class="lead mt-3 fs-4 text-secondary">Participating in SPARK will be an exciting and
-                                rewarding proposition for students at ENTC. Showing courage and leadership they will
-                                be expected to solve some of the most intractable challenges facing humanity. Working
-                                in teams over a period of a year they will explore the boundaries of their capabilities
-                                and at pace develop innovative solutions to resolve those challenges. They will sharpen
-                                their communications, presentation, social media influencing skills in presenting their
-                                valuable experience to an external audience. </p>
-                            <p class="lead mb-3 fs-4 text-secondary">
-                                The World Economic Forum (WEF) has identified a number of soft skills required to effectively
-                                participate in modern commerce and industry. In participating in the program, the undergraduates
-                                will reinforce or acquire new skills that have been highlighted by the WEF.
-                            </p>
-                        </div>
-                    </div>
-                </div> -->
+                
 
 
         </header>
@@ -117,7 +100,7 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/tesseract.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
@@ -132,7 +115,7 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/techstatic.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
@@ -149,7 +132,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
 
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/pestsense.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
@@ -167,7 +150,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
 
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/amicis.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
@@ -185,7 +168,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
 
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/greenAlgae.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
@@ -203,7 +186,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mb-3">
 
                         <div class="product-thumb h-100">
-                            <a href="#" class="product-title-link">
+                            <a href="Projects/5GCycling.php" class="product-title-link">
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
