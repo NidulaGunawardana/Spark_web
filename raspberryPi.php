@@ -256,7 +256,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-6 offset-lg-3 col-12 mb-3">
+                    <div class="col-lg-6 col-12 mb-3">
                         <div class="product-thumb h-100 shadow-sm">
                             <a href="Projects/fertilization.php" class="product-title-link">
                                 <div class="product-info d-flex text-center">
@@ -266,6 +266,24 @@
                                         </h5>
 
                                         <p class="product-p">A drone system that can autonomously keep an eye on a sizable agricultural area and maintain it</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-6 col-12 mb-3">
+                        <div class="product-thumb h-100 shadow-sm">
+                            <a href="Projects/handGuesture.php" class="product-title-link">
+                                <div class="product-info d-flex text-center">
+                                    <div class="w-100">
+                                        <h5 class="product-title mb-0">
+                                            Hand gesture-based electric equipment controlling mechanism
+                                        </h5>
+
+                                        <p class="product-p">To help disabled persons have easy access to control the electric equipment</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
