@@ -5183,6 +5183,11 @@ fieldset:disabled .btn {
     counter-reset: section
 }
 
+.list-group-dots {
+    list-style-type: disc;
+    counter-reset: section
+}
+
 .list-group-numbered>li::before {
     content: counters(section, ".") ". ";
     counter-increment: section

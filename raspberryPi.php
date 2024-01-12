@@ -241,14 +241,31 @@
 
                     <div class="col-lg-6 col-12 mb-3">
                         <div class="product-thumb h-100 shadow-sm">
-                            <a href="Projects/techstatic.php" class="product-title-link">
+                            <a href="Projects/drwsiness.php" class="product-title-link">
                                 <div class="product-info d-flex text-center">
                                     <div class="w-100">
                                         <h5 class="product-title mb-0">
-                                            Techstatic
+                                            Machine Learning based drowsiness detection system
                                         </h5>
 
-                                        <p class="product-p">Innovating Agriculture for Sustainability</p>
+                                        <p class="product-p">Implemented as a way to detect the drowsiness issues</p>
+                                        <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 offset-lg-3 col-12 mb-3">
+                        <div class="product-thumb h-100 shadow-sm">
+                            <a href="Projects/fertilization.php" class="product-title-link">
+                                <div class="product-info d-flex text-center">
+                                    <div class="w-100">
+                                        <h5 class="product-title mb-0">
+                                            Machine learning-based drone system for effective fertilization
+                                        </h5>
+
+                                        <p class="product-p">A drone system that can autonomously keep an eye on a sizable agricultural area and maintain it</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
