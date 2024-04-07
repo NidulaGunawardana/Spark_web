@@ -29,7 +29,6 @@
 </head>
 
 <body>
-
     <main>
 
         <nav class="navbar sticky-top navbar-expand-lg start-header start-style">
@@ -83,7 +82,7 @@
 
 
                 </div>
-        
+
 
 
         </header>
@@ -95,7 +94,7 @@
                 <div class="row">
                     <div class="col-10 offset-1">
                         <div class="text-justify ">
-                           
+
                             <p class="lead mb-3 text-secondary">The intention behind this project was to help disabled persons have easy access to control the electric equipment since that task may be challenging for them. This implementation was based on image recognition techniques to identify the hand gestures of the user. Then those gestures will be processed through a Raspberry-based machine learning model. Then those processed signals will be passed to a PCB which will control the electric appliances accordingly.
                             </p>
                         </div>
