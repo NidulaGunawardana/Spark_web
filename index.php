@@ -273,23 +273,23 @@
                 <div class="row">
                     <div class="col-12 col-lg-10 offset-lg-1 tile-color p-0">
                         <div class="px-lg-5 px-0 py-5 py-lg-0 ">
-                            <h1 class="my-4 text-light text-center header-font"><span>SPARK</span> CHALLENGE CELEBRATIONS</h1>
-                            <div class="col-4">
+                            <h1 class="my-4 text-light header-font"><span>SPARK</span> CHALLENGE CELEBRATIONS</h1>
+                            <div class="col-12 col-md-10 col-lg-10 col-xl-8 col-xxl-6 ">
                                 <div class="list-group list-group-horizontal" id="list-tab" role="tablist">
-                                    <a class="list-group-item list-group-item-action active mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-home-list" data-bs-toggle="list" href="#list-2022" role="tab" aria-controls="list-home">2022</a>
-                                    <a class="list-group-item list-group-item-action mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-profile-list" data-bs-toggle="list" href="#list-2023" role="tab" aria-controls="list-profile">2023</a>
+                                    <a class="list-group-item list-group-item-action active me-2 my-1 fs-5 fw-bold border-0 rounded-0 bg-darkgray" id="list-home-list" data-bs-toggle="list" href="#list-2022" role="tab" aria-controls="list-home">CELEBRATIONS - 2022</a>
+                                    <a class="list-group-item list-group-item-action me-4 my-1 fs-5 fw-bold border-0 rounded-0 bg-darkgray" id="list-profile-list" data-bs-toggle="list" href="#list-2023" role="tab" aria-controls="list-profile">CELEBRATIONS - 2023</a>
                                     <!-- <a class="list-group-item list-group-item-action rounded-3 mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-messages-list" data-bs-toggle="list" href="#list-202" role="tab" aria-controls="list-messages">202..</a> -->
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="tab-content" id="nav-tabContent">
                                     <div class="tab-pane fade show active text-light px-1" id="list-2022" role="tabpanel" aria-labelledby="list-home-list">
-                                        <section class="team mb-5">
+                                        <section class="team mb-5 mt-2">
                                             <div class="container px-2">
                                                 <div class="row">
                                                     <div class="col-12">
                                                         <div class="row">
-                                                            <h2 class="mb-2 mt-5 text-center"><span>SPARK</span> Challenge Celebrations – 2022</h2>
+                                                            <h2 class="mb-2 mt-1 mt-lg-2 header-font"><span>SPARK</span> Challenge Celebrations – 2022</h2>
                                                             <p class="mb-3 text-secondary">The year-long challenge is one of the fundamental
                                                                 parts of the SPARK programme, to be undertaken by the first/second-year undergraduates.
                                                                 In taking part, students were encouraged to step “outside the box” in developing unique
