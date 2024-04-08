@@ -1,8 +1,8 @@
-@font-face {
+/* @font-face {
     font-family: "Century-Gothic";
     src: url("../fonts/CenturyGothic.ttf");
 }
-
+ */
 
 /*
 
@@ -23,8 +23,8 @@ https://www.tooplate.com/view/2127-little-fashion
     --section-bg-color: #f0f8ff;
     --dark-color: #000000;
     --grey-color: #d0d1d1;
-    --p-color: #717275;
-    --body-font-family: 'Century-Gothic';
+    --p-color: #b3b3b3;
+    --body-font-family: 'ARIAL';
     --h5-font-size: 24px;
     --p-font-size: 20px;
     --copyright-text-font-size: 16px;
@@ -783,16 +783,16 @@ section {
     color: var(--grey-color);
     font-size: 18px;
     font-weight: var(--font-weight-bold);
-    border-left: 1px solid var(--grey-color);
-    border-radius: 0;
-    padding-right: 0;
+    /* border-left: 1px solid var(--grey-color); */
+    /* border-radius: 0;
+    padding-right: 0; */
 }
 
 .about .nav-pills .nav-link:hover,
 .about .nav-pills .nav-link.active,
 .about .nav-pills .show>.nav-link {
     background: transparent;
-    border-left-color: var(--primary-color);
+    /* border-left-color: var(--primary-color); */
     color: var(--primary-color);
 }
 

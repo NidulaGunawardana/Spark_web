@@ -3,6 +3,8 @@
     src: url("fonts/ARIAL.TTF");
 }
 
+
+
 .textz {
     font-size: 150%;
     font-family: "arial";
@@ -146,7 +148,7 @@
 }
 
 .nav-item:hover .nav-link {
-    color: rgb(0, 132, 255)!important;
+    color: rgb(0, 132, 255) !important;
 }
 
 .nav-item.active .nav-link {
@@ -336,7 +338,7 @@ h1 span:nth-child(15) {
 
 .switched {
     border-color: #000 !important;
-    background: rgb(1, 126, 243)!important;
+    background: rgb(1, 126, 243) !important;
 }
 
 .switched #circle {
@@ -364,7 +366,7 @@ h1 span:nth-child(15) {
 }
 
 .dropdown-menu {
-    padding: 10px!important;
+    padding: 10px !important;
     margin: 0;
     font-size: 13px;
     letter-spacing: 1px;
@@ -405,15 +407,18 @@ h1 span:nth-child(15) {
 ================================================== */
 
 @media (max-width: 992px) {
+
     /* h1 {
         font-size: 38px;
     } */
     .nav-item {
         width: 100%;
     }
+
     .nav-item:after {
         display: none;
     }
+
     .nav-item::before {
         position: absolute;
         display: block;
@@ -426,6 +431,7 @@ h1 span:nth-child(15) {
         /* background-color: #000; */
         /* vertical-align: 0;/ */
     }
+
     .dropdown-toggle::after {
         position: absolute;
         display: block;
@@ -439,10 +445,12 @@ h1 span:nth-child(15) {
         /* vertical-align: 0; */
         transition: all 200ms linear;
     }
+
     .dropdown-toggle[aria-expanded="true"]::after {
         transform: rotate(90deg);
         opacity: 0;
     }
+
     .dropdown-menu {
         padding: 0px !important;
         box-shadow: none;
@@ -451,25 +459,31 @@ h1 span:nth-child(15) {
         background-color: #00000070;
         transition: all 200ms linear;
     }
+
     .dropdown-toggle[aria-expanded="true"]+.dropdown-menu {
         margin-top: 10px !important;
         margin-bottom: 20px !important;
     }
+
     body.nav-item::before {
         background-color: #fff;
     }
+
     body .dropdown-toggle::after {
         background-color: #fff;
     }
+
     .dropdown-item {
         padding: 3px 15px;
         color: #ffffff;
         border-radius: 2px;
         transition: all 200ms linear;
     }
+
     .listheder {
         width: 100%;
     }
+
     .start-header.scroll-on {
         padding: 10px 0;
     }

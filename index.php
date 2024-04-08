@@ -84,7 +84,7 @@
                         <div class="row">
                             <div class="col-lg-8 col-10 offset-lg-2 offset-1 text-center">
                                 <img src="images/Spark light.png" class="img-fluid w-50 mx-auto">
-                                <p class="lead mt-lg-3 mb-lg-5 text-center fw-lighter" style="color: rgb(191, 191, 191);"><b>SPARK</b> will expose <b>ENTC</b> undergraduates to a set
+                                <p class="mt-lg-3 mb-lg-5 text-center fw-lighter" style="color: rgb(191, 191, 191);"><b>SPARK</b> will expose <b>ENTC</b> undergraduates to a set
                                     of challenges not made available in any other university students in Asia, Europe, or the Americas.
                                     This unique project will not only provide a platform to develop and nurture innovative ideas to solve
                                     real-world problems, but also develop some of the soft and hard skill sets required by undergraduates
@@ -97,81 +97,123 @@
 
         </section>
 
-        <section class="about section-padding pt-0">
-            <div class="container">
-                <div class="row">
+        <section class="about section-padding py-3">
+            <div class="container-fluid">
+                <div class="row ">
+                    <div class="col-12 col-lg-10 offset-lg-1 tile-color ">
+                        <div class="row p-1 p-lg-5">
 
-                    <div class="col-12 text-center">
-                        <h2 class="mb-5 text-light"><span>SPARK</span> PROGRAMME</h2>
-                    </div>
+                            <div class="col-12 text-center">
+                                <h1 class="text-light header-font"><span>SPARK</span> PROGRAMME</h1>
+                            </div>
 
-                    <div class="col-lg-3 col-12 mt-auto mb-auto">
-                        <ul class="nav nav-pills mb-5 mx-auto justify-content-center align-items-center" id="pills-tab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Building a community</button>
-                            </li>
+                            <div class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4 offset-lg-2 mt-auto mb-lg-3">
+                                <ul class="nav-pills list-group mx-auto list-group-horizontal" id="pills-tab" role="tablist">
+                                    <li class="nav-item p-1" role="presentation">
+                                        <button class="nav-link active text-center mx-auto bg-dark w-100 h-100 rounded-0" id="pills-youtube-tab" data-bs-toggle="pill" data-bs-target="#pills-youtube" type="button" role="tab" aria-controls="pills-youtube" aria-selected="true">A Challenge</button>
+                                    </li>
+                                    <li class="nav-item p-1" role="presentation ">
+                                        <button class="nav-link text-center mx-auto bg-dark w-100 rounded-0" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Building a community</button>
+                                    </li>
+                                    <li class="nav-item p-1" role="presentation">
+                                        <button class="nav-link text-center mx-auto bg-dark w-100 rounded-0" id="pills-skill-tab" data-bs-toggle="pill" data-bs-target="#pills-skill" type="button" role="tab" aria-controls="pills-skill" aria-selected="false">Improving skills</button>
+                                    </li>
+                                </ul>
+                            </div>
 
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="pills-youtube-tab" data-bs-toggle="pill" data-bs-target="#pills-youtube" type="button" role="tab" aria-controls="pills-youtube" aria-selected="true">A Challenge</button>
-                            </li>
+                            <div class="col-12">
+                                <div class="tab-content mt-1" id="pills-tabContent">
+                                    <div class="tab-pane fade " id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="pills-skill-tab" data-bs-toggle="pill" data-bs-target="#pills-skill" type="button" role="tab" aria-controls="pills-skill" aria-selected="false">Improving skills</button>
-                            </li>
-                        </ul>
-                    </div>
+                                        <div class="row">
 
-                    <div class="col-lg-9 col-12">
-                        <div class="tab-content mt-2" id="pills-tabContent">
-                            <div class="tab-pane fade " id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 
-                                <div class="row">
-                                    <div class="col-lg-7 col-12 my-auto">
-                                        <img src="images/raspberry-pi-1.jpg" class="img-fluid" alt="">
+                                            <div class="col-12 col-lg-8 offset-lg-2">
+                                                <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0">
+                                                    <p class="my-auto py-3">To build a <b>Community:</b> by exploiting the extensive Raspberry Pi resources
+                                                        available; by innovating and creating technology demonstrators that showcase the capability of the
+                                                        students to provide solutions in industrial, commercial and environmental settings.
+                                                        In using the experience; teaching peers and high school teachers about computer science is a key
+                                                        aspect of the project. </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 my-auto">
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-8 offset-lg-2 my-auto">
+                                                        <div class="row">
+                                                            <img src="images/raspberry-pi-1.jpg" class="img-thumbnail mx-auto align-content-center" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
 
-                                    <div class="col-lg-5 col-12">
-                                        <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0 mt-5">
-                                            <p class="my-auto">To build a <b>Community:</b> by exploiting the extensive Raspberry Pi resources
-                                                available; by innovating and creating technology demonstrators that showcase the capability of the
-                                                students to provide solutions in industrial, commercial and environmental settings.
-                                                In using the experience; teaching peers and high school teachers about computer science is a key
-                                                aspect of the project. </p>
+                                    <div class="tab-pane fade show active" id="pills-youtube" role="tabpanel" aria-labelledby="pills-youtube-tab">
+
+                                        <div class="row">
+                                            <div class="col-12 col-lg-8 offset-lg-2">
+                                                <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0">
+                                                    <p class="my-auto py-3">A <b>Challenge</b> for students to produce unique, novel products and services
+                                                        that mitigate the detrimental impact of Climate Change and for these solutions to be recognised and celebrated. </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 col-lg-8 offset-lg-2 my-auto">
+                                                <div class="row">
+                                                    <div class="ratio ratio-16x9">
+                                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8Bmbk5KdCEs?si=6bi8NZw8Z9orMUny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane fade" id="pills-skill" role="tabpanel" aria-labelledby="pills-skill-tab">
+                                        <div class="row">
+                                            <div class="col-12 col-lg-8 offset-lg-2">
+                                                <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0 ">
+                                                    <p class="my-auto py-3">In participating in the above programs undergraduates will <b>develop</b> important soft skills required
+                                                        in the modern day workplace;
+                                                        allowing a better class of undergraduates to enter the employment market.</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 my-auto">
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-8 offset-lg-2 my-auto">
+                                                        <div class="row">
+                                                            <img src="images/cody-lannom-G95AReIh_Ko-unsplash.jpeg" class="img-fluid" alt="">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade show active" id="pills-youtube" role="tabpanel" aria-labelledby="pills-youtube-tab">
+                        </div>
+                    </div>
 
-                                <div class="row">
-                                    <div class="col-lg-7 col-12 my-auto">
-                                        <div class="ratio ratio-16x9">
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8Bmbk5KdCEs?si=6bi8NZw8Z9orMUny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-12">
-                                        <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0 mt-5">
-                                            <p class="my-auto">A <b>Challenge</b> for students to produce unique, novel products and services
-                                                that mitigate the detrimental impact of Climate Change and for these solutions to be recognised and celebrated. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                </div>
+            </div>
+        </section>
 
-                            <div class="tab-pane fade" id="pills-skill" role="tabpanel" aria-labelledby="pills-skill-tab">
-                                <div class="row">
-                                    <div class="col-lg-7 col-12 my-auto">
-                                        <img src="images/cody-lannom-G95AReIh_Ko-unsplash.jpeg" class="img-fluid" alt="">
-                                    </div>
-
-                                    <div class="col-lg-5 col-12">
-                                        <div class="d-flex flex-column h-100 ms-lg-4 mt-lg-0 mt-5 ">
-                                            <p class="my-auto">In participating in the above programs undergraduates will <b>develop</b> important soft skills required
-                                                in the modern day workplace;
-                                                allowing a better class of undergraduates to enter the employment market.</p>
-                                        </div>
-                                    </div>
+        <section class="about section-padding py-1">
+            <div class="container-fluid">
+                <div class="row mb-3">
+                    <div class="col-12 col-lg-10 offset-lg-1">
+                        <div class="row align-items-center tile-color">
+                            <div class="col-12 col-lg-10 offset-lg-1">
+                                <div class="row px-3 py-lg-1">
+                                    <h1 class="mt-4 text-light header-font"><span>SPARK</span> CHALLENGE</h1>
+                                    <p class=" mb-3">The SPARK Challenge will reward groups of students that create unique, innovative, sustainable,
+                                        and socially/environmentally aware solutions; the results potentially having significant positive transformative impact on society,
+                                        industry, and the wider environment. The project will endeavour to nurture, drive, and sustain innovation and originality by
+                                        the introduction of Raspberry Pi into ENTC; creating an environment that allows for play and experimentation.
+                                        The motivation for the challenge can be Main.</p>
                                 </div>
                             </div>
                         </div>
@@ -180,100 +222,82 @@
             </div>
         </section>
 
-
-        <div class="row mb-5">
-            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-                <div class="container-fluid p-0 rounded-3 tile-color ">
-                    <div class="row align-items-center">
-                        <div class="col-12 ">
-                            <div class="px-5 py-5 py-lg-3 text-center ">
-                                <h1 class="my-4 text-light"><span>SPARK</span> CHALLENGE</h1>
-                                <p class="lead mb-3 text-secondary">The SPARK Challenge will reward groups of students that create unique, innovative, sustainable,
-                                    and socially/environmentally aware solutions; the results potentially having significant positive transformative impact on society,
-                                    industry, and the wider environment. The project will endeavour to nurture, drive, and sustain innovation and originality by
-                                    the introduction of Raspberry Pi into ENTC; creating an environment that allows for play and experimentation.
-                                    The motivation for the challenge can be Main.</p>
+        <section class="about section-padding py-1">
+            <div class="container-fluid">
+                <div class="row mb-3">
+                    <div class="col-12 col-lg-10 offset-lg-1">
+                        <div class="row align-items-center tile-color">
+                            <div class="col-12 col-lg-10 offset-lg-1">
+                                <div class="row px-3 py-5 py-lg-0">
+                                    <h1 class="my-4 text-light header-font">MAIN FEATURES OF <span>SPARK</span> CHALLENGE</h1>
+                                    <ul class="list-group list-group-flush tetext-justify ">
+                                        <li class="list-group-item  mb-4">
+                                            <p>The challenge is expected to run in each of the academic year with teams 4 working together to deliver solutions.</p>
+                                        </li>
+                                        <li class="list-group-item  mb-4">
+                                            <p>Any computing platform be it mobile, handheld, portable, standalone or otherwise can be used to as the basis of the challenge entry.</p>
+                                        </li>
+                                    </ul>
+                                    <h5 class="mb-4 text-light ">There are a number of supportive activities to ensure a productive and smooth running of the <span>SPARK</span> Challenge:</h5>
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item  mb-4">
+                                            <p>A fully worked up team entirely consisting of ENTC - E-Club members will
+                                                manage the activities associated with <b><i>SPARK Challenge.</i></b></p>
+                                        </li>
+                                        <li class="list-group-item  mb-4">
+                                            <p>A full marketing campaign directed at undergraduates, postgraduates,
+                                                and academic staff at Moratuwa University with the intention of raising awareness
+                                                and seeking long-term support for the <b><i>SPARK Challenge.</i></b></p>
+                                        </li>
+                                        <li class="list-group-item  mb-4">
+                                            <p>The delivery of 8 online workshops to facilitate the delivery of the Modern Design
+                                                Principles in support of the SPARK Challenge. 25 facilitators will be
+                                                trained to take these principles deeper into the department and to all individuals associated with the challenge.</p>
+                                        </li>
+                                        <li class="list-group-item  mb-4">
+                                            <p>The program will ensure that all first/second year students will have the opportunity
+                                                to understand the principles associated with United Nations - Sustainable Development Goals (SDG's)
+                                                with the intentions that these principles will be deeply embedded into the culture of ENTC</p>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="row mb-5">
-            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-                <div class="container-fluid p-0 tile-color rounded-3">
-                    <div class="row align-items-center">
-
-                        <div class="col-12">
-                            <div class="px-5 py-5 py-lg-0">
-                                <h2 class="my-4 text-light ">MAIN FEATURES OF <span>SPARK</span> CHALLENGE</h2>
-                                <ul class="list-group list-group-flush tetext-justify ">
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead">The challenge is expected to run in each of the academic year with teams 4 working together to deliver solutions.</p>
-                                    </li>
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead">Any computing platform be it mobile, handheld, portable, standalone or otherwise can be used to as the basis of the challenge entry.</p>
-                                    </li>
-                                </ul>
-                                <h5 class="mb-4 text-light ">There are a number of supportive activities to ensure a productive and smooth running of the <span>SPARK</span> Challenge:</h5>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead">A fully worked up team entirely consisting of ENTC - E-Club members will
-                                            manage the activities associated with <b><i>SPARK Challenge.</i></b></p>
-                                    </li>
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead">A full marketing campaign directed at undergraduates, postgraduates,
-                                            and academic staff at Moratuwa University with the intention of raising awareness
-                                            and seeking long-term support for the <b><i>SPARK Challenge.</i></b></p>
-                                    </li>
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead">The delivery of 8 online workshops to facilitate the delivery of the Modern Design
-                                            Principles in support of the SPARK Challenge. 25 facilitators will be
-                                            trained to take these principles deeper into the department and to all individuals associated with the challenge.</p>
-                                    </li>
-                                    <li class="list-group-item  mb-4">
-                                        <p class="lead ">The program will ensure that all first/second year students will have the opportunity
-                                            to understand the principles associated with United Nations - Sustainable Development Goals (SDG's)
-                                            with the intentions that these principles will be deeply embedded into the culture of ENTC</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <section class="front-product">
-            <div class="container-fluid p-0">
+        </section>
+        <section class="about">
+            <div class="container-fluid">
                 <div class="row">
-                    <div class="col-12 tile-color p-0">
+                    <div class="col-12 col-lg-10 offset-lg-1 tile-color p-0">
                         <div class="px-lg-5 px-0 py-5 py-lg-0 ">
-                            <h2 class="my-4 text-light text-center"><span>SPARK</span> CHALLENGE CELEBRATIONS</h2>
-                            <div class="col-12">
+                            <h1 class="my-4 text-light text-center header-font"><span>SPARK</span> CHALLENGE CELEBRATIONS</h1>
+                            <div class="col-4">
                                 <div class="list-group list-group-horizontal" id="list-tab" role="tablist">
-                                    <a class="list-group-item list-group-item-action active rounded-3 mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-home-list" data-bs-toggle="list" href="#list-2022" role="tab" aria-controls="list-home">2022</a>
-                                    <a class="list-group-item list-group-item-action rounded-3 mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-profile-list" data-bs-toggle="list" href="#list-2023" role="tab" aria-controls="list-profile">2023</a>
+                                    <a class="list-group-item list-group-item-action active mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-home-list" data-bs-toggle="list" href="#list-2022" role="tab" aria-controls="list-home">2022</a>
+                                    <a class="list-group-item list-group-item-action mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-profile-list" data-bs-toggle="list" href="#list-2023" role="tab" aria-controls="list-profile">2023</a>
                                     <!-- <a class="list-group-item list-group-item-action rounded-3 mx-4 my-1 text-center fs-5 fw-bold border-0 text-light" id="list-messages-list" data-bs-toggle="list" href="#list-202" role="tab" aria-controls="list-messages">202..</a> -->
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="tab-content" id="nav-tabContent">
-                                    <div class="tab-pane fade show active text-light" id="list-2022" role="tabpanel" aria-labelledby="list-home-list">
-                                        <section class="team rounded-3  mb-5">
-                                            <div class="container">
+                                    <div class="tab-pane fade show active text-light px-1" id="list-2022" role="tabpanel" aria-labelledby="list-home-list">
+                                        <section class="team mb-5">
+                                            <div class="container px-2">
                                                 <div class="row">
                                                     <div class="col-12">
-                                                        <div class="text-justify ">
+                                                        <div class="row">
                                                             <h2 class="mb-2 mt-5 text-center"><span>SPARK</span> Challenge Celebrations – 2022</h2>
-                                                            <p class="lead mb-3 text-secondary">The year-long challenge is one of the fundamental
+                                                            <p class="mb-3 text-secondary">The year-long challenge is one of the fundamental
                                                                 parts of the SPARK programme, to be undertaken by the first/second-year undergraduates.
                                                                 In taking part, students were encouraged to step “outside the box” in developing unique
                                                                 solutions that would mitigate or rectify some of the environmental damage caused by human excess.</p>
-                                                            <p class="lead mb-3 text-secondary">The 2021/22 academic year was unprecedented for undergraduate
+                                                            <p class="mb-3 text-secondary">The 2021/22 academic year was unprecedented for undergraduate
                                                                 study in Sri Lanka; not only had students to contend with Covid but also the impact of the
                                                                 significant economic downturn of the country.</p>
-                                                            <p class="lead mb-3 text-secondary">
+                                                            <p class="mb-3 text-secondary">
                                                                 It is in this context that the SPARK program was launched on the 19th of July 2021.
                                                                 Early indication in the program identified that 55 groups of students would participate
                                                                 in the challenge; by year-end however, only 11 teams finalized their entry submission.
@@ -285,39 +309,39 @@
                                                 </div>
 
                                                 <div class="row">
-                                                    <div class="col-12 text-justify ">
+                                                    <div class="col-12">
                                                         <h2 class="mb-2 mt-5">Team Phantom - Winners</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">Coral population throughout the world is rapidly
+                                                    <div class="col-lg-6 col-12 my-auto">
+                                                        <p class="mb-3 text-secondary my-auto">Coral population throughout the world is rapidly
                                                             declining due to the prevailing climate crisis and toxic human activities. Team phantom
                                                             presents a robot that collects coral gametes released by coral polyps during their
                                                             spawning events, and safely stores them internally. The proposed robot will automate
                                                             the current process which the scientists have to undergo diving and collecting the gametes by themselves.</p>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify">
+                                                    <div class="col-lg-6 col-12">
                                                         <div class="row h-100">
                                                             <div class="col-12 my-auto">
                                                                 <img src="images/spch22.png" alt="coral pic" class="img-fluid w-100 ">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify">
+                                                    <div class="col-lg-6 col-12">
                                                         <div class="row h-100">
                                                             <div class="col-12 my-auto">
                                                                 <img src="images/spch22.2.png" alt="coral pic" class="img-fluid w-100">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">Once collected, the gametes will be provided
+                                                    <div class="col-lg-6 col-12 my-auto">
+                                                        <p class="mb-3 text-secondary my-auto">Once collected, the gametes will be provided
                                                             with the proper conditions for growth, thus increasing the effective fertility rate from 0.2%
                                                             to 90% before release in to the wild ensuring a higher coral population in the coming decades.</p>
                                                     </div>
                                                 </div>
 
                                                 <div class="row">
-                                                    <div class="col-12 text-justify ">
+                                                    <div class="col-12">
                                                         <h2 class="mb-2 mt-5">Team Axon - 1st runners up</h2>
                                                     </div>
                                                     <div class="col-lg-6 col-12 text-justify my-auto">
