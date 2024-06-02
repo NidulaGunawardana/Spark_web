@@ -283,13 +283,13 @@
                             </div>
                             <div class="col-12">
                                 <div class="tab-content" id="nav-tabContent">
-                                    <div class="tab-pane fade show active text-light px-1" id="list-2022" role="tabpanel" aria-labelledby="list-home-list">
-                                        <section class="team mb-5 mt-2">
-                                            <div class="container px-2">
+                                    <div class="tab-pane fade show active text-light" id="list-2022" role="tabpanel" aria-labelledby="list-home-list">
+                                        <section class="team mb-5">
+                                            <div class="container-lg">
                                                 <div class="row">
                                                     <div class="col-12">
                                                         <div class="row">
-                                                            <h2 class="mb-2 mt-1 mt-lg-2 header-font"><span>SPARK</span> Challenge Celebrations – 2022</h2>
+                                                            <h2 class="mb-2 mt-1 mt-md-3 mt-lg-5 header-font"><span>SPARK</span> Challenge Celebrations – 2022</h2>
                                                             <p class="mb-3 text-secondary">The year-long challenge is one of the fundamental
                                                                 parts of the SPARK programme, to be undertaken by the first/second-year undergraduates.
                                                                 In taking part, students were encouraged to step “outside the box” in developing unique
@@ -310,67 +310,73 @@
 
                                                 <div class="row">
                                                     <div class="col-12">
-                                                        <h2 class="mb-2 mt-5">Team Phantom - Winners</h2>
+                                                        <h2 class="header-font">Team Phantom - Winners</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 my-auto">
-                                                        <p class="mb-3 text-secondary my-auto">Coral population throughout the world is rapidly
+                                                    <div class="col-lg-6 col-12 px-3">
+                                                        <p class="text-secondary my-auto">Coral population throughout the world is rapidly
                                                             declining due to the prevailing climate crisis and toxic human activities. Team phantom
                                                             presents a robot that collects coral gametes released by coral polyps during their
                                                             spawning events, and safely stores them internally. The proposed robot will automate
                                                             the current process which the scientists have to undergo diving and collecting the gametes by themselves.</p>
-                                                    </div>
-                                                    <div class="col-lg-6 col-12">
-                                                        <div class="row h-100">
-                                                            <div class="col-12 my-auto">
-                                                                <img src="images/spch22.png" alt="coral pic" class="img-fluid w-100 ">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6 col-12">
-                                                        <div class="row h-100">
-                                                            <div class="col-12 my-auto">
-                                                                <img src="images/spch22.2.png" alt="coral pic" class="img-fluid w-100">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6 col-12 my-auto">
-                                                        <p class="mb-3 text-secondary my-auto">Once collected, the gametes will be provided
+                                                        <p class="text-secondary my-auto">Once collected, the gametes will be provided
                                                             with the proper conditions for growth, thus increasing the effective fertility rate from 0.2%
                                                             to 90% before release in to the wild ensuring a higher coral population in the coming decades.</p>
+                                                    </div>
+                                                    <div class="col-lg-6 col-12">
+                                                        <div class="row h-100">
+                                                            <div class="col-6 my-auto">
+                                                                <img src="images/spch22.png" alt="coral pic" class="img-fluid">
+                                                            </div>
+                                                            <div class="col-6 my-auto">
+                                                                <img src="images/spch22.2.png" alt="Boat" class="img-fluid">
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="row">
                                                     <div class="col-12">
-                                                        <h2 class="mb-2 mt-5">Team Axon - 1st runners up</h2>
-                                                    </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">Monitoring the depth of anesthesia contributes
-                                                            in tailoring drug administration to the individual patient, thus preventing awareness
-                                                            or excessive anesthetic depth and improving patients’ outcomes. Team Axon proposes a
-                                                            system which can monitor the pediatric patients’ depth of anesthesia in a non-invasive
-                                                            manner to assist the anesthesiologists to take clinical decisions. </p>
+                                                        <h2 class="header-font">Team Axon - 1st runners up</h2>
                                                     </div>
                                                     <div class="col-lg-6 col-12 text-justify">
                                                         <div class="row h-100">
                                                             <div class="col-12 my-auto">
-                                                                <img src="images/spch22.3.png" alt="coral pic" class="img-fluid w-100 ">
+                                                                <img src="images/spch22.3.png" alt="Climate impact pic" class="img-fluid w-100 ">
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">The presented solution is developed by
+                                                    <div class="col-lg-6 col-12 px-3">
+                                                        <p class="text-secondary my-auto">Monitoring the depth of anesthesia contributes
+                                                            in tailoring drug administration to the individual patient, thus preventing awareness
+                                                            or excessive anesthetic depth and improving patients’ outcomes. Team Axon proposes a
+                                                            system which can monitor the pediatric patients’ depth of anesthesia in a non-invasive
+                                                            manner to assist the anesthesiologists to take clinical decisions. </p>
+                                                        <p class="text-secondary my-auto">The presented solution is developed by
                                                             utilizing the state-of-the-art hardware designs and deep learning models in which the
                                                             acquisition hardware system is capable of recording, pre-processing and real-time sending
                                                             the electroencephalography and electrocardiography signals of patients to the nearest computer
                                                             to predict the depth of anesthesia through the deployed deep learning models.</p>
                                                     </div>
 
+
+                                                    <div class="col-12 text-justify my-auto">
+
+                                                    </div>
+
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">Team Fixit - 2nd runners-up</h2>
+                                                        <h2 class="header-font">Team Fixit - 2nd runners-up</h2>
+                                                    </div>
+                                                    <div class="col-lg-6 col-12 px-3">
+                                                        <p class="text-secondary my-auto">Water pollution is a critical issue in
+                                                            the modern world. Any toxic chemicals that mix with the water will severely affect
+                                                            the ecological processes occurring in the environment. Current monitoring methods
+                                                            are not facilitated enough to inform an immediate change in the condition of the water. </p>
+                                                        <p class="text-secondary my-auto">Team Fix-it introduces a solution to this issue,
+                                                            a system that continuously monitors, pollutant levels and transmits that data over the air
+                                                            to a functional database. That data is rigorously monitored in real time so that alerts are
+                                                            triggered at particular thresholds so that appropriate actions can be undertaken by the relevant authorities. </p>
                                                     </div>
                                                     <div class="col-lg-6 col-12 text-justify">
                                                         <div class="row h-100">
@@ -379,30 +385,14 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">Water pollution is a critical issue in
-                                                            the modern world. Any toxic chemicals that mix with the water will severely affect
-                                                            the ecological processes occurring in the environment. Current monitoring methods
-                                                            are not facilitated enough to inform an immediate change in the condition of the water. </p>
-
-                                                    </div>
-
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">Team Fix-it introduces a solution to this issue,
-                                                            a system that continuously monitors, pollutant levels and transmits that data over the air
-                                                            to a functional database. That data is rigorously monitored in real time so that alerts are
-                                                            triggered at particular thresholds so that appropriate actions can be undertaken by the relevant authorities. </p>
-
-                                                    </div>
 
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">Team Solo - Runners Up</h2>
+                                                        <h2 class="header-font">Team Solo - Runners Up</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">During the recent past, high prevalence of chronic
+                                                    <div class="col-lg-6 col-12 px-3">
+                                                        <p class="text-secondary">During the recent past, high prevalence of chronic
                                                             kidney disease (CKD) was observed in some geographical areas of Sri Lanka. Most of the patients
                                                             are detected in later stages where renal replacement therapies are needed. CKD is asymptomatic
                                                             until an end stage, is one of the most common public health problems. TWe will use urine conductivity
@@ -411,9 +401,13 @@
 
                                                     </div>
                                                     <div class="col-lg-6 col-12 text-justify">
-                                                        <div class="row h-100">
-                                                            <div class="col-12 my-auto">
-                                                                <img src="images/spch22.5.png" alt="coral pic" class="img-fluid w-100 ">
+                                                        <div class="row h-50">
+                                                            <div class="col-12 my-auto mx-auto">
+                                                                <div class="row">
+                                                                    <div class="mx-auto text-center">
+                                                                        <img src="images/spch22.5.png" alt="coral pic" class="img-fluid mx-auto">
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -421,27 +415,26 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">Team Fusion - Runners Up</h2>
+                                                        <h2 class="header-font">Team Fusion - Runners Up</h2>
                                                     </div>
                                                     <div class="col-lg-6 col-12 text-justify">
-                                                        <div class="row h-100">
+                                                        <div class="row">
                                                             <div class="col-12 my-auto">
-                                                                <img src="images/spch22.6.png" alt="coral pic" class="img-fluid w-100 ">
+                                                                <div class="row">
+                                                                    <div class="text-center">
+                                                                        <img src="images/spch22.6.png" alt="coral pic" class="img-fluid ">
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">The team focused their challenge entry in
+                                                    <div class="col-lg-6 col-12 text-justify px-3">
+                                                        <p class="mb-3 text-secondary my-auto">The team focused their challenge entry in
                                                             improved on Food production and Preservation. Agriculture requires optimal conditions
                                                             for the for the production of good quality produce to feed the ever-growing population of the world.
                                                             The team sought a solution in managing critical factors in growing various produce in a greenhouse environment ensuring that data in relation
                                                             are collected in real time and transferred to a server using IoT based end points.</p>
-
-                                                    </div>
-
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto"> The data will
+                                                        <p class="mb-3 text-secondary my-auto"> The data will
                                                             be analysed real time with a potential ML/AI based intelligence that will manage toe environmental/nutritional
                                                             conditions of the “plant” growth and the greenhouse environment.</p>
 
@@ -449,11 +442,11 @@
 
                                                 </div>
 
-                                                <div class="row mb-5">
+                                                <div class="row mb-5 mt-3">
                                                     <div class="col-12">
                                                         <div class="text-center">
 
-                                                            <p class="lead mb-3 text-secondary"><b><i>The SPARK program successfully completed
+                                                            <p class="mb-3 text-secondary"><b><i>The SPARK program successfully completed
                                                                         the pilot year of the Challenge on the 30th of July 2022. All participants will
                                                                         be encouraged to further develop their proposal with the University faculty
                                                                         supporting those efforts with the availability of significant business, technical
@@ -467,20 +460,20 @@
                                         </section>
                                     </div>
                                     <div class="tab-pane fade" id="list-2023" role="tabpanel" aria-labelledby="list-profile-list">
-                                        <section class="team rounded-3 mb-5">
+                                        <section class="team mb-5">
                                             <div class="container-lg">
                                                 <div class="row">
                                                     <div class="col-12">
                                                         <div class="text-justify ">
-                                                            <h2 class="mb-2 mt-5 text-center"><span>SPARK</span> Challenge Celebrations – 2023</h2>
+                                                            <h2 class="mb-2 mt-5 header-font"><span>SPARK</span> Challenge Celebrations – 2023</h2>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="row">
 
 
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">The Spark Challenge 2022/23 was an extension of the
+                                                    <div class="col-12">
+                                                        <p class="mb-3 text-secondary">The Spark Challenge 2022/23 was an extension of the
                                                             competition campaign which was organized by Spark Branch with the intention of uplifting and
                                                             appraising the innovative mindsets which were enriched with sustainable goals which will eventually
                                                             address global issues more effectively. After an almost exhaustive year, the competition reached its
@@ -493,30 +486,25 @@
 
                                                 <div class="row">
                                                     <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">Champions – Team Pathfinders</h2>
+                                                        <h2 class="mb-2 mt-1 header-font">Champions - Team Pathfinders</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify">
+                                                    <div class="col-lg-6 col-12">
                                                         <div class="row h-100">
                                                             <div class="col-12 my-auto px-2 ">
                                                                 <img src="images/Spark_champ_23-scaled.jpg" alt="coral pic" class="img-fluid w-100 ">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">They have brought an impressive solution
+                                                    <div class="col-lg-6 col-12 px-3">
+                                                        <p class="text-secondary">They have brought an impressive solution
                                                             to identify insects damaging crops and recommending insecticide usage accordingly.
                                                             Insecticide use that is excessive or incorrect has a negative impact on agricultural
                                                             communities, consumers, and ecosystems by raising production costs, jeopardising
                                                             the health and safety of farmers and customers, and causing environmental degradation
                                                             and ecological imbalances. The improper application of insecticides in agriculture
-                                                            is a result of farmers’ ignorance and failure to recognise pests before they cause
+                                                            is a result of farmers' ignorance and failure to recognise pests before they cause
                                                             damage to crops. </p>
-
-                                                    </div>
-
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto"> Pest Sense offers a solution to this issue by constantly checking
+                                                        <p class="text-secondary"> Pest Sense offers a solution to this issue by constantly checking
                                                             the field for pests and advising the farmers on what pesticides to use and in what
                                                             quantities so that the farmers may safeguard the crops while sticking to safe
                                                             chemical use. Farmers can save costs and boost field yield by following
@@ -527,18 +515,12 @@
 
                                                 </div>
                                                 <div class="row">
-                                                    <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">First Runner-Up – Team Techstatic</h2>
+                                                    <div class="col-12">
+                                                        <h2 class="mb-2 mt-1 header-font">First Runner-Up - Team Techstatic</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify">
-                                                        <div class="row h-100">
-                                                            <div class="col-12 my-auto px-2 ">
-                                                                <img src="images/spark_1st_runner_23-scaled.jpg" alt="coral pic" class="img-fluid w-100 ">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">This project is similarly centred on agricultural
+
+                                                    <div class="col-lg-6 col-12">
+                                                        <p class="text-secondary">This project is similarly centred on agricultural
                                                             areas, and it uses a sophisticated monitoring and recommendation system to handle some
                                                             of the problems that pertain to that sector. In underdeveloped nations, the agriculture
                                                             sector lacks effective environmental monitoring, which results in food waste, fertiliser
@@ -547,31 +529,32 @@
                                                             fertiliser recommendations, identify potential nutrient deficiencies, identify land
                                                             degradation, and inform about any risk of surplus production for that particular crop by
                                                             combining data from the monitoring device, user inputs, and other data gathered from the area. </p>
-
-                                                    </div>
-
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto"> It also contains a news and alert system that notifies
+                                                        <p class="text-secondary"> It also contains a news and alert system that notifies
                                                             the farmer of any local illnesses or weather conditions that can harm their crops. This product
                                                             will also be a game changer in the agriculture sector which will definitely uplift the quality of the crops.</p>
 
                                                     </div>
-
+                                                    <div class="col-lg-6 col-12 text-justify">
+                                                        <div class="row h-100">
+                                                            <div class="col-12 my-auto px-2 ">
+                                                                <img src="images/spark_1st_runner_23-scaled.jpg" alt="coral pic" class="img-fluid w-100 ">
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-12 text-justify ">
-                                                        <h2 class="mb-2 mt-5">Second Runner-Up – Team Spectro</h2>
+                                                        <h2 class="mb-2 mt-1 header-font">Second Runner-Up - Team Spectro</h2>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify">
+                                                    <div class="col-lg-6 col-12">
                                                         <div class="row h-100">
                                                             <div class="col-12 my-auto px-2 ">
                                                                 <img src="images/spark_2nd_runner_23_1-scaled.jpg" alt="coral pic" class="img-fluid w-100 ">
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto">This group has focused on Energy Generation, a topic that is
+                                                    <div class="col-lg-6 col-12">
+                                                        <p class="text-secondary">This group has focused on Energy Generation, a topic that is
                                                             quite important right now. Their ground-breaking initiative reimagines energy generation using
                                                             cutting-edge methods. Their emphasis on utilising hydrogen’s power, especially the biological processes
                                                             of green algae, propels us towards a time when energy production transcends current limitations and results
@@ -579,27 +562,20 @@
                                                             investigating fresh ways to generate renewable energy while utilising hydrogen’s potential as a crucial
                                                             component. As a clean and adaptable energy source, hydrogen has several benefits, and scientists are precisely
                                                             utilising the metabolic processes of green algae to harvest this power.</p>
-
-                                                    </div>
-
-
-                                                    <div class="col-12 text-justify my-auto">
-                                                        <p class="lead mb-3 text-secondary my-auto"> This made it
+                                                        <p class="text-secondary"> This made it
                                                             possible for them to access an organic and sustainable technique of
                                                             making hydrogen, opening the door to a time when energy production will
                                                             exceed current constraints and contribute to a more sustainable world.
 
                                                         </p>
-
                                                     </div>
-
                                                 </div>
 
                                                 <div class="row mb-5">
                                                     <div class="col-12">
                                                         <div class="text-center">
 
-                                                            <p class="lead mb-3 text-secondary"><b><i>After Spark Challenge 2022/23, the next competition,
+                                                            <p class="text-secondary"><b><i>After Spark Challenge 2022/23, the next competition,
                                                                         Spark Challenge 2023/24 was introduced to inspire young innovators and get them ready to tackle
                                                                         the future of the industries and combat climate change.</i></b></p>
 
