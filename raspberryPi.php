@@ -74,9 +74,9 @@
 
                     <div class="col-lg-6 col-12 header-info text-center text-lg-start">
                         <div class="row h-100">
-                            <h1 class="my-auto">
-                                <span class="d-block text-primary">SPARK</span>
-                                <span class="d-block text-light">Raspberry Pi Community</span>
+                            <h1 class="my-auto ">
+                                <span class="d-block text-primary ">SPARK</span>
+                                <span class="d-block text-light ">Raspberry Pi Community</span>
                             </h1>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                 <div class="row">
                     <div class="col-12 h-100">
                         <div class="px-5 py-5 py-lg-3 text-center my-auto">
-                            <p class="lead my-3 text-secondary">SPARK will encourage, facilitate and nurture innovation in the use of Raspberry Pi.
+                            <p class=" my-3 text-secondary">SPARK will encourage, facilitate and nurture innovation in the use of Raspberry Pi.
                                 Through that effort ENTC will become recognized as a major contributor to the Raspberry Pi Organization in supporting the
                                 development of its product, service and for the support of the <b>Raspberry Pi community </b>locally and internationally. In delivering
                                 those outcomes, they become recognized worldwide as a leading exponent of the Raspberry Pi ecosystem. </p>
@@ -104,7 +104,7 @@
                 <div class="row">
 
                     <div class="col-12">
-                        <h2 class="mb-5 text-center">Main Features Of The <span>SPARK</span> Raspberry Pi Community</h2>
+                        <h2 class="mb-5 header-font text-center">Main Features Of The <span>SPARK</span> Raspberry Pi Community</h2>
                     </div>
 
                     <div class="col-12 col-lg-8 offset-lg-2">
@@ -124,7 +124,7 @@
                                             <div class="accordion-body">
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">
-                                                        <p class="lead">Demonstrating to the industry and society the capability of the
+                                                        <p class="text-secondary">Demonstrating to the industry and society the capability of the
                                                             ENTC by building core competencies and demonstrating the abilities of Raspberry
                                                             Pi platform to a wider audience beyond the university</p>
                                                     </li>
@@ -134,7 +134,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="accordion-item">
+                                    <div class="accordion-item ">
                                         <h2 class="accordion-header" id="headingTwo">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionGeneralTwo" aria-expanded="false" aria-controls="accordionGeneralTwo">
                                                 SPARK Pi Community Pi-Mora/Raspberry JAMS
@@ -146,7 +146,7 @@
                                             <div class="accordion-body">
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">
-                                                        <p class="lead">Run 3 Raspberry JAMs every academic year teaching Pi enthusiasts about the capabilities of the Raspberry Pi platform.</p>
+                                                        <p class="text-secondary">Run 3 Raspberry JAMs every academic year teaching Pi enthusiasts about the capabilities of the Raspberry Pi platform.</p>
                                                     </li>
 
                                                 </ul>
@@ -166,10 +166,10 @@
                                             <div class="accordion-body">
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">
-                                                        <p class="lead">Enhancing the capabilities of high school teachers by undertaking ICT training.</p>
+                                                        <p class="text-secondary">Enhancing the capabilities of high school teachers by undertaking ICT training.</p>
                                                     </li>
                                                     <li class="list-group-item">
-                                                        <p class="lead">Participation in the Raspberry Pi Community will be encouraged for all year groups</p>
+                                                        <p class="text-secondary">Participation in the Raspberry Pi Community will be encouraged for all year groups</p>
                                                     </li>
 
                                                 </ul>
@@ -193,17 +193,17 @@
                 <div class="row">
 
                     <div class="col-lg-9 mx-auto col-11">
-                        <h4 class="text-center text-light">There are a number of supportive activities to ensure a productive and smooth running of the <span>SPARK</span> Community:
+                        <h4 class=" text-light header-font fs-1">There are a number of supportive activities to ensure a productive and smooth running of the <span>SPARK</span> Community:
                         </h4>
 
                         <div class="slick-testimonial">
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item  my-4">
-                                    <p class="lead">A fully worked up team entirely consisting of ENTC - E-Club members
+                                    <p class="">A fully worked up team entirely consisting of ENTC - E-Club members
                                         will manage the activities associated with both the SPARK Raspberry Pi Community</p>
                                 </li>
                                 <li class="list-group-item  mb-1">
-                                    <p class="lead">A full marketing campaign directed at Raspberry Pi users and others interested in the platform or
+                                    <p class="">A full marketing campaign directed at Raspberry Pi users and others interested in the platform or
                                         developments associated with that platform; ensuring targeted messaging to the SPARK Raspberry
                                         Pi Community about the developments being undertaken at ENTC</p>
                                 </li>
@@ -216,10 +216,10 @@
             </div>
         </section>
 
-        <section class="team rounded-3  mb-3">
+        <section class="team mb-3">
             <div class="container-fluid">
                 <div class="row">
-                    <h2 class=" my-5 text-center">Technology Demonstrations</h2>
+                    <h2 class=" my-5 text-center header-font">Technology Demonstrations</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-3">
@@ -230,7 +230,7 @@
                                         <h5 class="product-title mb-0">
                                             The Phoenix Cubesatallite project
                                         </h5>
-                                        <p class="product-p">weather balloon mission and the development of a Cube Satellite</p>
+                                        <p class="product-p text-secondary">weather balloon mission and the development of a Cube Satellite</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
 
@@ -248,7 +248,7 @@
                                             Machine Learning based drowsiness detection system
                                         </h5>
 
-                                        <p class="product-p">Implemented as a way to detect the drowsiness issues</p>
+                                        <p class="product-p text-secondary">Implemented as a way to detect the drowsiness issues</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
@@ -265,7 +265,7 @@
                                             Machine learning-based drone system for effective fertilization
                                         </h5>
 
-                                        <p class="product-p">A drone system that can autonomously keep an eye on a sizable agricultural area and maintain it</p>
+                                        <p class="product-p text-secondary">A drone system that can autonomously keep an eye on a sizable agricultural area and maintain it</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
@@ -283,7 +283,7 @@
                                             Hand gesture-based electric equipment controlling mechanism
                                         </h5>
 
-                                        <p class="product-p">To help disabled persons have easy access to control the electric equipment</p>
+                                        <p class="product-p text-secondary">To help disabled persons have easy access to control the electric equipment</p>
                                         <small class="product-price text-muted ms-auto mt-auto mb-5 py-auto"><u>Read More</u></small>
                                     </div>
                                 </div>
@@ -297,11 +297,11 @@
             </div>
         </section>
         <section class="featured-product section-padding pt-0 pb-3">
-            <div class="container-fluid team rounded-3">
+            <div class="container-fluid team">
                 <div class="row ">
 
                     <div class="col-12 text-center">
-                        <h2 class="my-5 text-dark">Pi Community - Pi-Mora - 2022</h2>
+                        <h2 class="my-5 text-dark header-font">Pi Community - Pi-Mora - 2022</h2>
                     </div>
                     <div class="col-12">
                         <div class="row h-100">
@@ -315,7 +315,7 @@
                                     <div class="product-info d-flex">
                                         <div>
 
-                                            <p class="lead text-justify">Pi-Mora 1.3 (3/3) Participants joined the third
+                                            <p class="text-secondary">Pi-Mora 1.3 (3/3) Participants joined the third
                                                 session to get some invaluable experience about the applications of
                                                 Raspberry Pi in Robotics. This was lead by the very experienced Achala
                                                 Athukorala who inspired over 100 participants who attended these sessions.</p>
@@ -333,7 +333,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="lead text-justify">Pi-Mora 1.3 (3/2) Participants joined the second session hands-on to
+                                            <p class="text-secondary">Pi-Mora 1.3 (3/2) Participants joined the second session hands-on to
                                                 gain experience about the applications of Raspberry Pi in Computer Vision. The workshops
                                                 were lead by the very experienced undergraduates Avishka Perera and Yasiru Karunanayake. </p>
                                         </div>
@@ -349,7 +349,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="lead text-justify">Janitha Gunarathna was the guest speaker for Pi-Mora 1.3 (1/3).
+                                            <p class="text-secondary">Janitha Gunarathna was the guest speaker for Pi-Mora 1.3 (1/3).
                                                 The day’s session was conducted by a pioneering personality and entrepreneur in
                                                 the field of UAV Technology. He will demonstrate his projects and share skills
                                                 and knowledge with the participants. </p>
@@ -363,7 +363,7 @@
 
                     <div class="col-12 col-lg-6 offset-lg-3 text-center">
                         <!-- <a href="products.html" class="view-all">View All Products</a> -->
-                        <p class="lead text-center text-secondary">
+                        <p class=" text-center text-secondary">
                             Two further Pi-Mora’s were undertaken by the student community in 2022 with a fantastic reception for
                             this innovation of this facility at ENTC. All participants had access to these workshops and seminars
                             either through a Facebook live stream or Zoom. All resource material and replays are available on the internal ENTC servers.
@@ -374,7 +374,7 @@
                 <div class="row team">
 
                     <div class="col-12 text-center">
-                        <h2 class="my-5 text-dark">Pi Community - Pi- Mora - 2023</h2>
+                        <h2 class="my-5 header-font">Pi Community - Pi- Mora - 2023</h2>
                     </div>
                     <div class="col-12">
                         <div class="row h-100">
@@ -388,7 +388,7 @@
                                     <div class="product-info d-flex">
                                         <div>
 
-                                            <p class="lead text-justify">Pi-Mora 2.2 took place in December 2022; With the
+                                            <p class="text-secondary">Pi-Mora 2.2 took place in December 2022; With the
                                                 intention to Explore Computer Vision with experienced Mr. Bimalka Plyaruwan,
                                                 Undergraduate at Electronics and Telecommunication Engineering, University
                                                 of Moratuwa. Over 100 participants took part either physically or over zoom
@@ -407,7 +407,7 @@
 
                                     <div class="product-info d-flex">
                                         <div>
-                                            <p class="lead text-justify">Pi-Mora 2.1 took place in September 2022 over
+                                            <p class="text-secondary">Pi-Mora 2.1 took place in September 2022 over
                                                 a two day period with speaker Yasiru Senarath , undergraduate of ENTC
                                                 leading the partici-pants on the numerous issues related “Ethical Hacking”
                                                 on day one; with a full practical workshops on day 2</p>
@@ -423,8 +423,8 @@
                         <!-- <a href="products.html" class="view-all">View All Products</a> -->
                         <p class="text-center text-secondary">
                             Both these sessions are now available Youtube! <br />
-                            Day 1: <a href="https://bit.ly/3rJTDo1" target="_blank" class="link-underline"> https://bit.ly/3rJTDo1</a><br />
-                            Day 2 :<a href="https://bit.ly/3SzRSWb" target="_blank" class="link-underline"> https://bit.ly/3SzRSWb</a>
+                            Day 1: <a href="https://bit.ly/3rJTDo1" target="_blank" class="link-underline text-secondary"> https://bit.ly/3rJTDo1</a><br />
+                            Day 2 :<a href="https://bit.ly/3SzRSWb" target="_blank" class="link-underline text-secondary"> https://bit.ly/3SzRSWb</a>
 
                         </p>
                     </div>
@@ -432,13 +432,13 @@
                 </div>
             </div>
         </section>
-        <section class="team rounded-3  mb-5">
+        <section class="team mb-5">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-10 offset-1">
-                        <div class="text-justify ">
-                            <h2 class="mb-2 mt-5 text-center">Teacher Training Programme</h2>
-                            <p class="lead mb-3 text-secondary">A major project aimed at providing
+                        <div class="">
+                            <h2 class="mb-2 mt-5 text-center header-font">Teacher Training Programme</h2>
+                            <p class="mb-3 text-secondary">A major project aimed at providing
                                 significant assistance to Sri Lanka was initiated by the Spark branch.
                                 The Spark branch collaborated with the Sri Lankan Ministry of Education
                                 to conduct a "Teacher Training" programme that aimed to equip advanced-level
